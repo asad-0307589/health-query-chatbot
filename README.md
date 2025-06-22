@@ -47,18 +47,6 @@ This chatbot is intended **only for general informational purposes**. It does no
 
 ---
 
-## 🛠️ Installation & Usage
-
-```bash
-# Clone the repo
-git clone https://github.com/your-username/health-query-chatbot.git
-cd health-query-chatbot
-
-# Install dependencies
-pip install -r requirements.txt
-
 # Set your Hugging Face token in .env
 echo "HF_TOKEN=your_token_here" > .env
 
-# Run the chatbot
-python chatbot.py
